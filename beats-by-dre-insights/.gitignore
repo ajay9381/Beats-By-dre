@@ -1,0 +1,17 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Python & notebooks (if any)
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Node (if any)
+node_modules/
+
+# Data & temp
+data/raw/
+data/private/
+*.tmp
+*.log
